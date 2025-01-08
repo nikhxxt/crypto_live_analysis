@@ -10,6 +10,7 @@ The purpose of this report is to analyze live data of the top 50 cryptocurrencie
 # Key Findings
 
  1. Top 5 Cryptocurrencies by Market Capitalization
+  
    -Bitcoin (BTC): Market Cap: $540 billion
     
    -Ethereum (ETH): Market Cap: $240 billion
