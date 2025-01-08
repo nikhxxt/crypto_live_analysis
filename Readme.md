@@ -11,20 +11,24 @@ The purpose of this report is to analyze live data of the top 50 cryptocurrencie
 
  1. Top 5 Cryptocurrencies by Market Capitalization
    -Bitcoin (BTC): Market Cap: $540 billion
+    
    -Ethereum (ETH): Market Cap: $240 billion
+   
    -Tether (USDT): Market Cap: $83 billion
+   
    -Binance Coin (BNB): Market Cap: $40 billion
+   
    -XRP (XRP): Market Cap: $30 billion
 
 2. Average Price of the Top 50 Cryptocurrencies
 
-The average price of the top 50 cryptocurrencies is approximately $1,527.35.
+    The average price of the top 50 cryptocurrencies is approximately $1,527.35.
 
 3. 24-Hour Percentage Price Change
 
-Highest Change: Shiba Inu (SHIB) with a 24-hour price increase of 12.45%.
+    Highest Change: Shiba Inu (SHIB) with a 24-hour price increase of 12.45%.
 
-Lowest Change: Solana (SOL) with a 24-hour price decrease of -8.90%.
+    Lowest Change: Solana (SOL) with a 24-hour price decrease of -8.90%.
 
 # Conclusion
 The analysis demonstrates that the cryptocurrency market remains volatile, with significant price fluctuations over 24 hours. Bitcoin and Ethereum dominate in terms of market capitalization, while smaller cryptocurrencies like Shiba Inu show potential for short-term growth.
